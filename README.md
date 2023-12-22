@@ -1,4 +1,4 @@
-# Project Title
+# Vue Spotify App
 
 ## Description
 
