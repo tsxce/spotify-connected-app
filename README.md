@@ -10,6 +10,10 @@ PC:
 ![app1](https://github.com/tsxce/spotify-connected-app/assets/37582666/50e61df3-0066-4a52-817f-03aabe2442ad)
 ![app2](https://github.com/tsxce/spotify-connected-app/assets/37582666/bce4d12e-11d3-4a04-84e0-5f0d9e89e733)
 ![app3](https://github.com/tsxce/spotify-connected-app/assets/37582666/2ba4bbaa-2503-485f-b53a-d5b3fe413a80)
+Mobile:
+![mobile1](https://github.com/tsxce/spotify-connected-app/assets/37582666/79c2390b-93e1-4264-8ae6-d3b555c050f2)
+![mobile2](https://github.com/tsxce/spotify-connected-app/assets/37582666/0b8a3def-e588-4ad9-93cf-7aa1cc4b29b7)
+![mobile3](https://github.com/tsxce/spotify-connected-app/assets/37582666/09563c76-f5f8-4c9a-be03-90418e138d66)
 
 
 ## Installation
