@@ -5,6 +5,11 @@
 This is the Vue version of spotify connected app, idea from Brittany Chiang's React spotify app.
 https://www.newline.co/courses/build-a-spotify-connected-app
 
+### Tech Stack
+
+**Client:** Vue.js, Vuex, Vuetify
+**Server:** Node.js, Express.js
+
 ## Preview
 PC:
 ![app1](https://github.com/tsxce/spotify-connected-app/assets/37582666/50e61df3-0066-4a52-817f-03aabe2442ad)
