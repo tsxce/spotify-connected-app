@@ -1,8 +1,9 @@
-# Vue Spotify App
+# Spotify Connected App
 
 ## Description
 
-A brief description of what this project does and who it's for.
+This is the Vue version of spotify connected app, idea from Brittany Chiang's React spotify app.
+https://www.newline.co/courses/build-a-spotify-connected-app
 
 ## Installation
 
