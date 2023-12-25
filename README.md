@@ -7,8 +7,8 @@ https://www.newline.co/courses/build-a-spotify-connected-app
 
 ### Tech Stack
 
-**Client:** Vue.js, Vuex, Vuetify
-**Server:** Node.js, Express.js
+#### Client: Vue.js, Vuex, Vuetify
+#### Server: Node.js, Express.js
 
 ## Preview
 PC:
